@@ -27,14 +27,14 @@ function draw() {
   textSize(65);
   frameRate(10);
   fill(0, 147, 255);
-  text('¿Cómo se supone que se comporta un adulto?', random(125, 480), 390);
-  text('¿Cómo se supone que se comporta un adulto?', random(125, 480), 390);
+  text('¿Cómo se supone que se comporta un adulto?', random(25, 480), 390);
+  text('¿Cómo se supone que se comporta un adulto?', random(25, 480), 390);
   textSize(85);
   fill(193, 0, 255);
-  text('¿Cómo se supone que se comporta un adulto?', random(155, 440), 300);
+  text('¿Cómo se supone que se comporta un adulto?', random(55, 440), 300);
   textSize(78);
   fill(255, 46, 0);
-  text('¿Cómo se supone que se comporta un adulto?', random(105, 400), 430);
+  text('¿Cómo se supone que se comporta un adulto?', random(5, 400), 430);
   textSize(42);
   fill(2, 0, 0);
   text('¿Cómo se supone que se comporta un adulto?', 90, random(1470, 90));
